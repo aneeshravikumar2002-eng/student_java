@@ -4,7 +4,7 @@
     <title>Student Management</title>
 </head>
 <body>
-    <h2>Welcome to Student Management App</h2>
+    <h2>Welcome to Student Management of aws maven App</h2>
     <p><a href="hello">Go to HelloServlet</a></p>
 </body>
 </html>
